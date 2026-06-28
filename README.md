@@ -104,7 +104,6 @@ This project was independently developed by [@adityaaapratappp](https://github.c
 Made by [@adityaaapratappp](https://github.com/adityaaapratappp)
 
 ---
-
 ## 📄 License
 
 MIT License — feel free to fork, modify, and explore the cosmos with it.
